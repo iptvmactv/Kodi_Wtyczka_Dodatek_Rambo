@@ -2,7 +2,7 @@
 <channel>
 <name>[B]Rambo Live TV[/B]</name>
 <thumbnail>https://i.ibb.co/GJ09C2G/512x512.jpg</thumbnail> Small pic
-<externallink>https://raw.githubusercontent.com/RockyBalboa2022/Rocky_Live_TV_Addon/main/Rocky_Live_TV.txt</externallink>
+<externallink>https://raw.githubusercontent.com/iptvmactv/Kodi_Wtyczka_Live_TV/main/Live_TV.txt</externallink>
 <fanart>https://i.ibb.co/KXjsQnN/1920x1080.jpg</fanart> Bic pic
 <info>[B]Rambo Live TV[/B]</info>
 </channels>
