@@ -1,1 +1,29 @@
-#
+<channels>
+<channel>
+<name>[B]Rambo Live TV[/B]</name>
+<thumbnail>https://i.ibb.co/GJ09C2G/512x512.jpg</thumbnail> Small pic
+<externallink>https://raw.githubusercontent.com/RockyBalboa2022/Rocky_Live_TV_Addon/main/Rocky_Live_TV.txt</externallink>
+<fanart>https://i.ibb.co/KXjsQnN/1920x1080.jpg</fanart> Bic pic
+<info>[B]Rambo Live TV[/B]</info>
+</channels>
+</channel>
+
+<channels>
+<channel>
+<name>[B]Rambo Movies[/B]</name>
+<thumbnail>https://i.ibb.co/GJ09C2G/512x512.jpg</thumbnail> Small pic
+<externallink>https://raw.githubusercontent.com/iptvmactv/Kodi_Wtyczka_Filmy_Seriale_AIO/main/Filmy.txt</externallink>
+<fanart>https://i.ibb.co/KXjsQnN/1920x1080.jpg</fanart> Bic pic
+<info>[B]Rambo Movies[/B]</info>
+</channels>
+</channel>
+
+<channels>
+<channel>
+<name>[B]Rambo Series[/B]</name>
+<thumbnail>https://i.ibb.co/GJ09C2G/512x512.jpg</thumbnail> Small pic
+<externallink>https://raw.githubusercontent.com/iptvmactv/Kodi_Wtyczka_Seriale_Menu/main/Seriale_Menue.txt</externallink>
+<fanart>https://i.ibb.co/KXjsQnN/1920x1080.jpg</fanart> Bic pic
+<info>[B]Rambo Series[/B]</info>
+</channels>
+</channel>
